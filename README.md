@@ -1,13 +1,3 @@
-<h1 align="center">iMusic Website</h1>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/dompham21/Imusicvn-SpringBoot-NextJs"><img alt="license" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p> 
-
-## [View Demo](https://imusicvn.vercel.app)
-
-
 ## Description
 This is a website to listen to music online build with backend Spring Boot, database MySQL, and frontend Nextjs.
 
@@ -67,11 +57,11 @@ This is a website to listen to music online build with backend Spring Boot, data
 ** NextJs + ReactJs + CharkaUI + Antd + Axios
 
 ## BUGs, comments or you need to talk  
-Email Me: dompham300721@gmail.com (welcome, say hi)
+Email Me: ayushrai456@gmail.com (welcome, say hi)
 
 ## License
 
-Copyright (c) 2021 Dom Pham
+Copyright (c) 2023 Ayush Rai
 
 
 
